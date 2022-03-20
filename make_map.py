@@ -31,7 +31,7 @@ def main():
                    ).add_to(m)
 
     # Display the map
-    m.save("map.html")
+    m.save("index.html")
 
 
 # Press the green button in the gutter to run the script.
